@@ -6,8 +6,6 @@
 
 html {
   block-size: 100%;
-  /* TODO: убрать */
-  background-color: #fff;
 }
 
 .page {
@@ -20,7 +18,7 @@ html {
   background-color: #1b1919;
   overflow: auto;
   /* TODO: подумать как по-другому сделать отступы */
-  /* padding-block: 133px; */
+  /* padding-block-start: 133px; */
 }
 
 h1,
@@ -43,7 +41,7 @@ ol {
 }
 
 .content {
-  padding-block-start: 136px;
+  padding-block-start: 266px;
   /* TODO: подумать как по-другому сделать отступы */
   margin-inline: auto;
   display: flex;
