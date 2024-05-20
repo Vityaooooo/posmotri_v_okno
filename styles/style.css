@@ -102,8 +102,7 @@ ol {
   border-block: 1px solid currentColor;
 }
 
-.search-form__textfield:focus, 
-.search-form__textfield:focus-visible {
+.search-form__textfield:focus {
   outline: none;
 }
 
